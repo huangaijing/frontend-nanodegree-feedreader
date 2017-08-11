@@ -47,6 +47,10 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 20. When complete - all of your tests should pass. 
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
+## How to run the Project
+Open the index.html in the browser, Jasmine test will run automatically.
 
-## What I did for this Project
-1. add [jasmine-jquery-2.1.1.js](https://github.com/velesin/jasmine-jquery) library to support more on HTML fixtures
+
+## Third-Party libraries
+- [Jasmine](http://jasmine.github.io/)
+- [jasmine-jquery-2.1.1.js](https://github.com/velesin/jasmine-jquery) library to support more on jquery
